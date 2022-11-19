@@ -1,0 +1,6 @@
+﻿Formula,n value,Space Group,Layer Shift Factor (t1),Layer Shift Factor (t2),Bandgap,Cation Name,Anion Name,Anion Size (ionic radius-pm),Bias,Light Intensity (w/cm2),Light Intensity (nM),Responsivity R (A/W),D (Jones)
+BA2PbI4,1,Pbca,0.49,0.5,2.3,Butyl Ammine,Iodide,206,3,0.049,0,9.81E-04,1.14E+11
+BA2MAPb2I7,2,Cmcm,0.5,0.5,1.96,Butyl Ammine,Iodide,206,1,0.049,0,5.80E-04,5.48E+10
+BA2MA3Pb4I13,4,Cmcm,0.5,0.5,1.85,Butyl Ammine,Iodide,206,2,0.049,0,2.45E-02,3.89E+12
+BA2PbBr4,1,Pbca,0.49,0.5,2.82,Butyl Ammine,Bromide,196,3,0.049,0,1.57E-04,1.55E+10
+BA2MAPb2Br7,2,Cmca,0,0,2.54,Butyl Ammine,Bromide,196,5,0.049,0,2.46E-02,2.12E+12
